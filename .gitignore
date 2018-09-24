@@ -1,0 +1,4 @@
+#This is a comment line
+#Wild cards are usable: *.txt
+.DS_Store
+fifi.txt
